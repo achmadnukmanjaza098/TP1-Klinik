@@ -178,7 +178,7 @@ public class FormEdit extends javax.swing.JFrame {
             }
         });
 
-        btn_update.setText("Update Data");
+        btn_update.setText("Edit Data");
         btn_update.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btn_updateActionPerformed(evt);
@@ -194,7 +194,7 @@ public class FormEdit extends javax.swing.JFrame {
                 .addComponent(btn_hapus)
                 .addGap(88, 88, 88)
                 .addComponent(btn_update)
-                .addContainerGap(196, Short.MAX_VALUE))
+                .addContainerGap(206, Short.MAX_VALUE))
         );
         panel_button_form_inputLayout.setVerticalGroup(
             panel_button_form_inputLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)

@@ -231,7 +231,7 @@
                   <Component id="btn_hapus" min="-2" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="88" max="-2" attributes="0"/>
                   <Component id="btn_update" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace pref="196" max="32767" attributes="0"/>
+                  <EmptySpace pref="206" max="32767" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
@@ -259,7 +259,7 @@
         </Component>
         <Component class="javax.swing.JButton" name="btn_update">
           <Properties>
-            <Property name="text" type="java.lang.String" value="Update Data"/>
+            <Property name="text" type="java.lang.String" value="Edit Data"/>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btn_updateActionPerformed"/>
